@@ -1,0 +1,30 @@
+function skillsMember() {
+  var member = document.getElementById("member");
+  var memberSkills = document.getElementById("member-skills");
+  var memberSkillsList = document.getElementById("member-skills-list");
+  var memberSkillsListItems = document.getElementsByClassName("member-skills-list-item");
+  var memberSkillsListItemsArray = Array.from(memberSkillsListItems);
+  var memberSkillsListItemsArrayLength = memberSkillsListItemsArray.length;
+  var memberSkillsListItemsArrayIndex = 0;
+  var memberSkillsListItemsArrayIndexMax = memberSkillsListItemsArrayLength - 1;
+  var memberSkillsListItemsArrayIndexMin = 0;
+  var memberSkillsListItemsArrayIndexPrev = memberSkillsListItemsArrayIndexMax;
+  var memberSkillsListItemsArrayIndexNext = memberSkillsListItemsArrayIndexMin + 1;
+  var memberSkillsListItemsArrayIndexCurrent = memberSkillsListItemsArrayIndexMin;
+  var memberSkillsListItemsArrayIndexCurrentClass = "member-skills-list-item-current";
+  var memberSkillsListItemsArrayIndexPrevClass = "member-skills-list-item-prev";
+  var memberSkillsListItemsArrayIndexNextClass = "member-skills-list-item-next";
+  var memberSkillsListItemsArrayIndexCurrentClass = "member-skills-list-item-current";
+  var memberSkillsListItemsArrayIndexPrevClass = "member-skills-list-item-prev";
+  var memberSkillsListItemsArrayIndexNextClass = "member-skills-list-item-next";
+  var memberSkillsListItemsArrayIndexCurrentClass = "member-skills-list-item-current";
+  var memberSkillsListItemsArrayIndexPrevClass = "member-skills-list-item-prev";
+  var memberSkillsListItemsArrayIndexNextClass = "member-skills-list-item-next";
+  var memberSkillsListItemsArrayIndexCurrentClass = "member-skills-list-item-current";
+  var memberSkillsListItemsArrayIndexPrevClass = "member-skills-list-item-prev";
+  var memberSkillsListItemsArrayIndexNextClass = "member-skills-list-item-next";
+  var memberSkillsListItemsArrayIndexCurrentClass = "member-skills-list-item-current";
+  var memberSkillsListItemsArrayIndexPrevClass = "member-skills-list-item-prev";
+  var memberSkillsListItemsArrayIndexNextClass = "member-skills-list-item-next";
+  var memberSkillsListItemsArrayIndexCurrentClass = "member-skills-list-item-current";
+  var memberSkillsListItemsArrayIndexPrevClass
